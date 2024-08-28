@@ -1,0 +1,1 @@
+this is a repo for documenting my journey through rust, following the Rust book
